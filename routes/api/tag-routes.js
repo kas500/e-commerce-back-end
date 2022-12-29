@@ -81,7 +81,7 @@ router.put('/:id', (req, res) => {
         .filter((product_id) => !productIds.includes(product_id))
         .map((product_id) => {
           return {
-            tag_id: req.params.id,
+            tag_id: req.params.id*1,
             product_id,
           };
         });
