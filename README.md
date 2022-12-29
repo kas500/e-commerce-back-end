@@ -21,7 +21,7 @@ You’ll need to use the MySQL2 and Sequelize packages to connect your Express.j
 in order to test the application, you need to install and open Insomnia app (or similar) and perform  different types of CRUD requests.
 
 ### Walkthrough video
-<img src="./img/main.png" alt="main page" width=800px height=50%>
+https://user-images.githubusercontent.com/38312017/209904630-b3d7d501-217a-413f-83d1-d7b414b88b55.mov
   
 ## Contributing
 
